@@ -25,4 +25,4 @@ How to run this file?
 --------------------------
 The result will be shown like
 
-![](Pic/final.png)
+![](https://github.com/majid2012/Sentiment-Analysis/blob/master/Pic/final.PNG)
